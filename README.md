@@ -21,20 +21,6 @@ A content-based Movie Recommendation System built with Python and Streamlit that
 - **Streamlit** — Interactive web application
 - **TMDB API** — Fetching movie posters (if configured in the application)
 
-## 📂 Project Structure
-
-```text
-Movie-Recommendation-System/
-│
-├── model/
-│   ├── movie_list.pkl
-│   └── similarity.pkl
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
