@@ -1,0 +1,21 @@
+# Model files
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Dataset
+Dataset/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
